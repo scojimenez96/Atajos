@@ -1,0 +1,55 @@
+.style-menu {
+  display: none;
+  background-color: #fff;
+  width: auto;
+  position: absolute;
+  right: 50px;
+  top: 50px;
+  -webkit-box-shadow: 0 2px 1px -1px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+          box-shadow: 0 2px 1px -1px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+  border-radius: 5px;
+}
+
+#button-headers-login a {
+  text-decoration: none;
+}
+
+#button-headers-login button {
+  display: block;
+  text-decoration: none;
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  padding: 6px 20px;
+}
+
+#button-headers-login button:active {
+  background: aliceblue;
+}
+
+#button-headers-login button:hover {
+  background: aliceblue;
+}
+
+#button-headers-login hr {
+  margin: 0;
+}
+
+.magin-menu1 {
+  margin: 3px 30px;
+}
+
+.magin-menu2 {
+  margin: 5px;
+}
+
+.pointmenu {
+  width: 25px;
+}
+
+.pointmenu:hover {
+  background-color: RGB(243, 244, 244);
+  border-radius: 20px;
+}
+/*# sourceMappingURL=headerLogin.css.map */

@@ -1,0 +1,55 @@
+.toolbar-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: #fff;
+  height: 64px;
+  padding: 0 2.5rem;
+  width: 100%;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  white-space: nowrap;
+  position: fixed;
+  z-index: 1;
+  -webkit-box-shadow: 0 0px 6px 4px #0001, 0 0px 1px 0 #00000023, 0 0px 0px 0 #0000001f;
+          box-shadow: 0 0px 6px 4px #0001, 0 0px 1px 0 #00000023, 0 0px 0px 0 #0000001f;
+}
+
+.header-row {
+  width: 100%;
+}
+
+.logo {
+  width: 150px;
+}
+
+.buttons-header {
+  margin-right: 0.6rem;
+  border-color: #0000001f;
+  font-family: Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#signin {
+  background-color: #fff;
+  color: #8c52ff;
+  border-color: #8c52ff;
+  border-radius: 30px;
+  width: 100px;
+}
+
+#signup {
+  background-color: #8c52ff;
+  color: #fff;
+  border-radius: 30px;
+  width: 100px;
+}
+/*# sourceMappingURL=header.css.map */

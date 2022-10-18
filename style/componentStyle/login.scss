@@ -1,0 +1,56 @@
+#logo-login {
+  width: 40%;
+  margin: auto;
+  display: flex;
+  padding-top: 25px;
+}
+
+.container-login {
+  min-width: 300px;
+  max-width: 500px;
+  width: 100%;
+  background-color: #fff;
+  height: auto;
+  position: relative;
+  margin: 50px auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 1px -1px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+}
+.container-login h3 {
+  font: 400 16px/28px Roboto, Helvetica Neue, sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.container-login a {
+  text-decoration: none;
+  color: #8c52ff;
+}
+
+.forgot {
+  margin-left: 50px;
+  margin-bottom: 5px;
+}
+
+.container-login a:hover {
+  color: #000;
+}
+
+.aling-fiel {
+  width: 100%;
+  text-align: center;
+}
+
+.aling-fiel .input-90 {
+  margin: 15px !important;
+}
+
+.container-login p {
+  padding: 20px 50px;
+}
+
+.css-1kty9di-MuiFormLabel-root-MuiInputLabel-root {
+  background: #fff;
+  width: auto;
+}

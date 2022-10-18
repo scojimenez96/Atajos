@@ -1,0 +1,31 @@
+.css-bhp9pd-MuiPaper-root-MuiCard-root ul {
+  padding-left: 0px !important;
+}
+
+.css-fgqrxg-MuiGrid-root {
+  -webkit-box-pack: center !important;
+      -ms-flex-pack: center !important;
+          justify-content: center !important;
+}
+
+.css-iltpxr-MuiGrid-root {
+  -ms-flex-preferred-size: 28.333333% !important;
+      flex-basis: 28.333333% !important;
+}
+
+.css-1bwnrp3-MuiContainer-root {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.row-left {
+  -ms-flex-preferred-size: 80%;
+      flex-basis: 80%;
+  padding-right: 50px;
+}
+
+.row-right {
+  -ms-flex-preferred-size: 20%;
+      flex-basis: 20%;
+}
+/*# sourceMappingURL=pricing.css.map */

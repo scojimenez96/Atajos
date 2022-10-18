@@ -1,0 +1,50 @@
+$size-btn: 100px;
+$size-radius: 30px;
+$pulpura: #8c52ff;
+$white: #fff;
+
+.toolbar-row {
+  display: flex;
+  box-sizing: border-box;
+  background: $white;
+  height: 64px;
+  padding: 0 2.5rem;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  white-space: nowrap;
+  position: fixed;
+  z-index: 1;
+  box-shadow: 0 0px 6px 4px #0001, 0 0px 1px 0 #00000023, 0 0px 0px 0 #0000001f;
+}
+
+.header-row {
+  width: 100%;
+}
+
+.logo {
+  width: 150px;
+}
+
+.buttons-header {
+  margin-right: 0.6rem;
+  border-color: #0000001f;
+  font-family: Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+#signin {
+  background-color: $white;
+  color: $pulpura;
+  border-color: $pulpura;
+  border-radius: $size-radius;
+  width: $size-btn;
+}
+
+#signup {
+  background-color: $pulpura;
+  color: $white;
+  border-radius: $size-radius;
+  width: $size-btn;
+}

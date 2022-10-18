@@ -1,0 +1,167 @@
+.box-yourcompany {
+  background: #fff;
+  -webkit-box-shadow: 0 2px 1px -1px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+          box-shadow: 0 2px 1px -1px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+  padding-bottom: 20px;
+}
+
+.box-yourcompany img {
+  width: 20px;
+}
+
+.memberAndProfile {
+  border: solid 1px;
+  border-color: black;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  width: 94%;
+}
+
+.memberAndProfileDisplay {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.memberAndProfileBackground {
+  background: #0089ff;
+  padding: 5px 7px;
+  border-radius: 10px 0px;
+  color: #fff;
+}
+
+.memberAndProfileText {
+  text-align: left;
+  margin-left: 10px;
+}
+
+.memberAndProfileText p {
+  margin-bottom: 0;
+  margin-top: -7px;
+  font-size: 12px;
+}
+
+.memberAndProfileicon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 28%;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.searchinput {
+  width: 94%;
+  margin-bottom: 20px;
+}
+
+.inviteTeamBottom {
+  border: none;
+  background: none;
+  color: #006bc7;
+  font-weight: 500;
+  font-size: 13px;
+  margin-top: 15px;
+}
+
+.inviteTeamBottom span {
+  margin-right: 10px;
+}
+
+.colum-yourcompany {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 15px;
+}
+
+.colum-left {
+  width: 18%;
+  border-right: 1px solid;
+  border-color: #00000038;
+}
+
+.colum-right {
+  width: 81%;
+  margin-left: 20px;
+}
+
+.groupfilter {
+  background: #000000bf;
+  color: #fff;
+  width: 20%;
+  border-radius: 5px;
+  padding: 5px 15px;
+  margin-bottom: 15px;
+}
+
+.groupfilter span {
+  padding-right: 5px;
+}
+
+.teammember {
+  margin-bottom: 10px;
+  background: #0089ff;
+  padding: 8px 7px;
+  border-radius: 10px 0px;
+  color: #fff;
+  width: 42px;
+  text-align: center;
+}
+
+.teammember + h6 {
+  padding-bottom: 5px;
+}
+
+.profileconnet {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 4% 12% auto;
+      grid-template-columns: 4% 12% auto;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 3px 15px;
+  margin-right: 20px;
+}
+
+.profileconnet p {
+  margin: 0;
+}
+
+.mini-menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+.allavailable {
+  text-align: center;
+}
+
+.allavailable h3 {
+  margin: 15px;
+}
+
+.allavailableconnect {
+  text-decoration: none;
+  background: #1c97db;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 12px;
+}
+
+.box-yourcompany h4 {
+  padding-left: 15px;
+  padding-top: 15px;
+}
+/*# sourceMappingURL=yourcompany.css.map */

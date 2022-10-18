@@ -1,0 +1,87 @@
+.backgound {
+  background-color: #8c52ff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.container-registro {
+  min-width: 300px;
+  max-width: 600px;
+  width: 100%;
+  background-color: #fff;
+  height: auto;
+  position: relative;
+  margin: 50px auto;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 2px 1px -1px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+          box-shadow: 0 2px 1px -1px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+}
+
+.container h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  padding-top: 15px;
+}
+
+form {
+  min-width: 300px;
+  max-width: 6000px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.row-name {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin: 10px 48px 15px 60px;
+}
+
+.input-48 {
+  width: 95%;
+  margin-top: 1.3rem !important;
+  height: 35px;
+  font-weight: 500;
+}
+
+.input-90 {
+  width: 80%;
+  margin: 15px 60px !important;
+  height: 35px;
+  font-weight: 500;
+}
+
+.submit {
+  width: 80%;
+  margin: auto;
+  margin-top: 1.3rem;
+  color: #fff;
+  background-color: #8c52ff;
+  -webkit-box-shadow: 0 3px 1px -2px #0003, 0 2px 2px 0 #00000024, 0 1px 5px 0 #0000001f;
+          box-shadow: 0 3px 1px -2px #0003, 0 2px 2px 0 #00000024, 0 1px 5px 0 #0000001f;
+  border: none;
+  border-radius: 30px;
+  height: 35px;
+  font-weight: 500;
+}
+
+.container-registro p {
+  padding: 20px 55px;
+}
+
+.container-registro a {
+  text-decoration: none;
+  color: #8c52ff;
+}
+/*# sourceMappingURL=registro.css.map */

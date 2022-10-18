@@ -1,0 +1,48 @@
+.content-Summary {
+  -webkit-box-shadow: 0 1px 1px 0px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+          box-shadow: 0 1px 1px 0px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+  border-radius: 10px;
+}
+
+.content-Summary hr {
+  margin: 0;
+}
+
+.div {
+  padding: 20px;
+}
+
+.content-Summary p {
+  margin-bottom: 0px;
+}
+
+.daysfree {
+  margin: 10px 0px !important;
+  background: #a8fbfb;
+  padding: 7px;
+}
+
+.tittle-summary-plan {
+  background: #a8fbfb;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.display-detail {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.proceed {
+  background-color: #1565c0;
+  color: #fff;
+  font-weight: 500;
+  border: none;
+  border-radius: 15px;
+  padding: 5px 12px;
+}
+/*# sourceMappingURL=summary.css.map */

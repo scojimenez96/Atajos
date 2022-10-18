@@ -1,0 +1,33 @@
+.content-addUser {
+  margin-top: 40px;
+}
+
+.display-addUser {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 20px;
+  border: 1px;
+  -webkit-box-shadow: 0 1px 1px 0px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+          box-shadow: 0 1px 1px 0px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+}
+
+.text-addUser p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#addUser-1 {
+  border-radius: 10px 10px 0px 0px;
+}
+
+#addUser-2 {
+  border-radius: 0px 0px 10px 10px;
+}
+/*# sourceMappingURL=addUser.css.map */

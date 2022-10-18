@@ -1,0 +1,36 @@
+.floating-card {
+  background: #fbfbfb;
+  border-radius: 10px;
+  width: 33%;
+  padding: 20px;
+  position: absolute;
+  left: 35%;
+  top: 20%;
+  box-shadow: 0 0px 10px 10px #0001, 0 10px 10px 0 #00000023,
+    0 2px 10px 10px #0000001f;
+  text-align: center;
+}
+
+.mensage-profile {
+  background: #d1d1fb;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.button-display {
+  display: flex;
+  justify-content: space-between;
+}
+
+#go-back {
+  background-color: #fff;
+  border-color: #007eff;
+  color: #007eff;
+  border-radius: 30px;
+}
+
+#go-to {
+  background-color: #007eff;
+  color: #fff;
+  border-radius: 30px;
+}

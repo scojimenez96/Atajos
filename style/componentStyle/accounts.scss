@@ -1,0 +1,46 @@
+.form-accounts {
+  display: grid;
+  padding: 20px;
+}
+
+.form-accounts input {
+  width: 50%;
+  margin-bottom: 20px;
+}
+
+.content-form-account {
+  background: #fff;
+  border-radius: 10px;
+  padding: 25px 15%;
+  box-shadow: 0 0px 10px 5px #0001, 0 0px 0px 0 #00000023,
+    0 0px 0px 0px #0000001f;
+}
+
+.content-form-setting {
+  background: #fff;
+  border-radius: 10px;
+  padding: 25px 5%;
+  box-shadow: 0 0px 10px 5px #0001, 0 0px 0px 0 #00000023,
+    0 0px 0px 0px #0000001f;
+}
+
+.content-form-setting input {
+  width: 35%;
+}
+
+.button-account {
+  float: right;
+  background: #9b41c9;
+  border: none;
+  width: 15%;
+  border-radius: 15px;
+  height: 35px;
+  margin-top: 25px;
+  color: #fff;
+}
+
+.buttonChangePassword {
+  text-decoration: none;
+  font-weight: 700;
+  color: #0a58ca;
+}

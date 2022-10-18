@@ -1,0 +1,45 @@
+.body-conect {
+  background-color: #fafafa;
+  margin-left: 209px;
+  width: 89%;
+  padding-top: 60px;
+  position: fixed;
+  z-index: -1;
+  height: 100vh;
+}
+.content-card {
+  margin: 2rem;
+}
+
+.card {
+  width: 230px;
+  height: 185px;
+  justify-content: space-between;
+  padding-top: 25px;
+  box-shadow: 0 2px 1px -1px #0003, 0 1px 1px 0 #00000024, 0 1px 3px 0 #0000001f;
+}
+
+.img-card {
+  width: 50px;
+}
+
+.col-md-3 {
+  width: 250px !important;
+}
+
+.button-conect {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.button-conect .btn-conect {
+  width: 90%;
+  line-height: 20px;
+  border: 1px solid currentColor;
+  border-color: #0000001f;
+  box-shadow: 0 0 0 0 #0003, 0 0 0 0 #00000024, 0 0 0 0 #0000001f;
+}
+
+.imghome {
+  width: 85%;
+}
